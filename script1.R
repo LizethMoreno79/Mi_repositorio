@@ -6,3 +6,6 @@
 
 #Resta
 25-30
+
+#Multiplicacion
+3*5
