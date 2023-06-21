@@ -7,5 +7,9 @@
 #Resta
 25-30
 
+
+#Multiplicacion
+3*5
+
 #División
 5/2
